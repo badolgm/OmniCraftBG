@@ -8,6 +8,7 @@ version = "0.6.0"
 edition = "2024"
 license = "MIT OR Apache-2.0"
 rust-version = "1.90"
+authors = ["Bernardo Adolfo Gómez Montoya"]
 repository = "https://github.com/storytold/wordcraft"
 
 [workspace.dependencies]

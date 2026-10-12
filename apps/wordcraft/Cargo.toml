@@ -1,10 +1,11 @@
 [package]
-name = "wordcraft"
+name = "omnicraft-bg"
 version.workspace = true
 edition.workspace = true
 license.workspace = true
+authors.workspace = true
 publish = false
-default-run = "wordcraft"
+default-run = "omnicraft-bg"
 description = "WordCraft desktop app"
 
 [lints]
